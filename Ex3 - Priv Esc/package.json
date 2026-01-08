@@ -1,0 +1,17 @@
+{
+  "name": "todo-list-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for managing todo lists for alice and bob",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["mcp", "todo", "server"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  }
+}
+

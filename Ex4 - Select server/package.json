@@ -1,0 +1,17 @@
+{
+  "name": "weather-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for weather forecasts (with a humorous twist)",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["mcp", "weather", "server", "jokes"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  }
+}
+

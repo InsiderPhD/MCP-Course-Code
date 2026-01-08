@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "todo-list-server": {
+      "command": "node",
+      "args": [
+        "/Users/katiepaxtonfear/Documents/MCP Course Code/Ex3 - Priv Esc/src/index.js"
+      ]
+    }
+  }
+}
+

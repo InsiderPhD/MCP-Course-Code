@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "weather-server": {
+      "command": "node",
+      "args": [
+        "/Users/katiepaxtonfear/Documents/MCP Course Code/Ex4 - Select server/src/index.js"
+      ]
+    }
+  }
+}
+

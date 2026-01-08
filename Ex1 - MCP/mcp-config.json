@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "math-server": {
+      "command": "node",
+      "args": [
+        "/Users/katiepaxtonfear/Documents/MCP Course Code/Ex1 - MCP/src/index.js"
+      ]
+    }
+  }
+}
+

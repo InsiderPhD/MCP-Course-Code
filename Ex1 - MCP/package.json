@@ -1,0 +1,17 @@
+{
+  "name": "math-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for basic mathematics and math jokes",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["mcp", "math", "server"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  }
+}
+
